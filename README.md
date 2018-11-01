@@ -20,4 +20,15 @@ or
 
 See the code for more information about what the different endpoints do in terms of tracing (implicit or explicit).
 
+
+## Zipkin UI
+
 Open up the [Zipkin UI](http://localhost:9411) and click on "Find Traces" to see the available traces.
+
+#### UI example 1 - client1 invocation:
+
+![Example 1](images/ex1.png)
+
+#### UI example 2 - client2 invocation:
+
+![Example 2](images/ex2.png)
